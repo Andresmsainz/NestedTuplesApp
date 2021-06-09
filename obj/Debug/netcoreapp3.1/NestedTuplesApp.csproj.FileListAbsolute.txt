@@ -1,0 +1,13 @@
+C:\Users\unsto\source\repos\NestedTuplesApp\obj\Debug\netcoreapp3.1\NestedTuplesApp.csproj.AssemblyReference.cache
+C:\Users\unsto\source\repos\NestedTuplesApp\obj\Debug\netcoreapp3.1\NestedTuplesApp.AssemblyInfoInputs.cache
+C:\Users\unsto\source\repos\NestedTuplesApp\obj\Debug\netcoreapp3.1\NestedTuplesApp.AssemblyInfo.cs
+C:\Users\unsto\source\repos\NestedTuplesApp\obj\Debug\netcoreapp3.1\NestedTuplesApp.csproj.CoreCompileInputs.cache
+C:\Users\unsto\source\repos\NestedTuplesApp\bin\Debug\netcoreapp3.1\NestedTuplesApp.exe
+C:\Users\unsto\source\repos\NestedTuplesApp\bin\Debug\netcoreapp3.1\NestedTuplesApp.deps.json
+C:\Users\unsto\source\repos\NestedTuplesApp\bin\Debug\netcoreapp3.1\NestedTuplesApp.runtimeconfig.json
+C:\Users\unsto\source\repos\NestedTuplesApp\bin\Debug\netcoreapp3.1\NestedTuplesApp.runtimeconfig.dev.json
+C:\Users\unsto\source\repos\NestedTuplesApp\bin\Debug\netcoreapp3.1\NestedTuplesApp.dll
+C:\Users\unsto\source\repos\NestedTuplesApp\bin\Debug\netcoreapp3.1\NestedTuplesApp.pdb
+C:\Users\unsto\source\repos\NestedTuplesApp\obj\Debug\netcoreapp3.1\NestedTuplesApp.dll
+C:\Users\unsto\source\repos\NestedTuplesApp\obj\Debug\netcoreapp3.1\NestedTuplesApp.pdb
+C:\Users\unsto\source\repos\NestedTuplesApp\obj\Debug\netcoreapp3.1\NestedTuplesApp.genruntimeconfig.cache
